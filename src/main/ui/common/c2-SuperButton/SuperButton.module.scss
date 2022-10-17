@@ -1,0 +1,17 @@
+.button {
+  align-self: start;
+  padding: 5px 24px;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 20px;
+  color: #ffffff;
+  border: none;
+  border-radius: 3px;
+  background-color: #0066cc;
+  &:hover, &:focus {
+    background-color: #0080FF;
+  }
+  &:active {
+    background-color: #0059B2;
+  }
+}
