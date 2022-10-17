@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ignat-friday/static/css/main.7f72b1f9.css",
+    "main.js": "/ignat-friday/static/js/main.c67b0c81.js",
+    "static/js/787.fa4c671e.chunk.js": "/ignat-friday/static/js/787.fa4c671e.chunk.js",
+    "static/media/checkbox-checked.svg": "/ignat-friday/static/media/checkbox-checked.c057f715262c748559df.svg",
+    "static/media/checkbox-unchecked.svg": "/ignat-friday/static/media/checkbox-unchecked.6f521af74e392cb5e34a.svg",
+    "index.html": "/ignat-friday/index.html",
+    "main.7f72b1f9.css.map": "/ignat-friday/static/css/main.7f72b1f9.css.map",
+    "main.c67b0c81.js.map": "/ignat-friday/static/js/main.c67b0c81.js.map",
+    "787.fa4c671e.chunk.js.map": "/ignat-friday/static/js/787.fa4c671e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f72b1f9.css",
+    "static/js/main.c67b0c81.js"
+  ]
+}
